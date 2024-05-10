@@ -832,7 +832,9 @@ SUCCESS PAGE
 
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-05-06 204220.png>)
+![alt text](1.jpg)
+![alt text](2.jpg)
+![alt text](3.jpg)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
